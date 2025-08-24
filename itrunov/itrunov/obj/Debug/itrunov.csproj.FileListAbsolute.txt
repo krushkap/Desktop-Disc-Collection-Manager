@@ -1,0 +1,15 @@
+C:\Users\Kata\source\repos\itrunov\itrunov\obj\Debug\itrunov.csproj.AssemblyReference.cache
+C:\Users\Kata\source\repos\itrunov\itrunov\obj\Debug\itrunov.Form1.resources
+C:\Users\Kata\source\repos\itrunov\itrunov\obj\Debug\itrunov.Properties.Resources.resources
+C:\Users\Kata\source\repos\itrunov\itrunov\obj\Debug\itrunov.csproj.GenerateResource.cache
+C:\Users\Kata\source\repos\itrunov\itrunov\obj\Debug\itrunov.csproj.CoreCompileInputs.cache
+C:\Users\Kata\source\repos\itrunov\itrunov\bin\Debug\itrunov.exe.config
+C:\Users\Kata\source\repos\itrunov\itrunov\bin\Debug\itrunov.exe
+C:\Users\Kata\source\repos\itrunov\itrunov\bin\Debug\itrunov.pdb
+C:\Users\Kata\source\repos\itrunov\itrunov\obj\Debug\itrunov.exe
+C:\Users\Kata\source\repos\itrunov\itrunov\obj\Debug\itrunov.pdb
+C:\Users\Kata\source\repos\itrunov\itrunov\obj\Debug\itrunov.exe.config
+C:\Users\Kata\source\repos\itrunov\itrunov\obj\Debug\itrunov.DiscForm.resources
+C:\Users\Kata\source\repos\itrunov\itrunov\obj\Debug\itrunov.CategoriesForm.resources
+C:\Users\Kata\source\repos\itrunov\itrunov\obj\Debug\itrunov.LocationsForm.resources
+C:\Users\Kata\source\repos\itrunov\itrunov\obj\Debug\itrunov.GenresForm.resources
